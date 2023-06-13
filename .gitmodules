@@ -1,0 +1,18 @@
+[submodule "random_number_guesser"]
+	path = random_number_guesser
+	url = https://github.com/SuyogPrasai/random_number_guesser.git
+[submodule "mad_libs_generator"]
+	path = mad_libs_generator
+	url = https://github.com/SuyogPrasai/mad_libs_generator.git
+[submodule "file_arranger"]
+	path = file_arranger
+	url = https://github.com/SuyogPrasai/file_arranger.git
+[submodule "email_slicer"]
+	path = email_slicer
+	url = https://github.com/SuyogPrasai/email_slicer.git
+[submodule "code_generator"]
+	path = code_generator
+	url = https://github.com/SuyogPrasai/code_generator.git
+[submodule "alias_generator"]
+	path = alias_generator
+	url = https://github.com/SuyogPrasai/alias_generator.git
