@@ -16,3 +16,6 @@
 [submodule "alias_generator"]
 	path = alias_generator
 	url = https://github.com/SuyogPrasai/alias_generator.git
+[submodule "password_manager"]
+	path = password_manager
+	url = https://github.com/SuyogPrasai/password_manager.git
