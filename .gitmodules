@@ -19,3 +19,6 @@
 [submodule "password_manager"]
 	path = password_manager
 	url = https://github.com/SuyogPrasai/password_manager.git
+[submodule "yt_music_downloader"]
+	path = yt_music_downloader
+	url = https://github.com/SuyogPrasai/yt_music_downloader.git
