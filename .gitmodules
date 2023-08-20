@@ -19,3 +19,6 @@
 [submodule "yt_music_downloader"]
 	path = yt_music_downloader
 	url = git@github.com:SuyogPrasai/yt_music_downloader.git
+[submodule "yt_spotify_playlist_converter"]
+	path = yt_spotify_playlist_converter
+	url = https://github.com/SuyogPrasai/yt_spotify_playlist_converter.git
