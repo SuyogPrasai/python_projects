@@ -22,3 +22,6 @@
 [submodule "yt_spotify_playlist_converter"]
 	path = yt_spotify_playlist_converter
 	url = https://github.com/SuyogPrasai/yt_spotify_playlist_converter.git
+[submodule "big_bot"]
+	path = big_bot
+	url = git@github.com:SuyogPrasai/big_bot.git
