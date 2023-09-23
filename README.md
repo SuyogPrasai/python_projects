@@ -15,7 +15,7 @@ To access and contribute to a specific Python project within this repository, fo
 2. Clone the sub-repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/project1.git
+   git clone https://github.com/SuyogPrasai/python_projects.git
     ```
 3. Open the project in your preferred code editor.
 
