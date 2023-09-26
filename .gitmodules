@@ -25,3 +25,6 @@
 [submodule "big_bot"]
 	path = big_bot
 	url = git@github.com:SuyogPrasai/big_bot.git
+[submodule "readme_generator"]
+	path = readme_generator
+	url = git@github.com:SuyogPrasai/readme_generator.git
