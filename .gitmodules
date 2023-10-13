@@ -28,3 +28,6 @@
 [submodule "readme_generator"]
 	path = readme_generator
 	url = git@github.com:SuyogPrasai/readme_generator.git
+[submodule "mp4_to_mp3"]
+	path = mp4_to_mp3
+	url = git@github.com:SuyogPrasai/mp4_to_mp3.git
